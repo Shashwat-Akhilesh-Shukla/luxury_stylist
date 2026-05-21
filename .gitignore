@@ -1,0 +1,29 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+data/*.json
+data/*.csv
+*.sqlite3
+
+# Vector DB
+chroma_db/
+.milvus/
+
+# IDE
+.vscode/
+.idea/
+
+# Mac
+.DS_Store

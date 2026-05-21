@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+playwright
+scrapy
+langchain
+langgraph
+chromadb
+sentence-transformers
+openai
+google-generativeai
+python-dotenv
